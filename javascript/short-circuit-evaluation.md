@@ -23,7 +23,7 @@ console.log(undefined || "not found") // "not found"
 console.log(null      || "not found") // "not found"
 ```
 
-## nullish coalescing operator
+## Nullish coalescing operator
 
 ```js
 console.log(12 ?? "not found") // 12
